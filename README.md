@@ -9,6 +9,13 @@ npm install
 npx playwright install
 ```
 
+---
+
+## Test Execution Report
+![Playwright Test Report](tests-passed.jpeg)
+
+---
+
 ## Run Tests
 
 ```bash
